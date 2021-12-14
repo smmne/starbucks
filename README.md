@@ -39,3 +39,4 @@
 - <code>og:description</code> : 페이지의 간단한 설명
 - <code>og:image</code> : 페이지의 대표 이미지 주소(URL)
 - <code>og:url</code> : 페이지의 주소(URL)
+
